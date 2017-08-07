@@ -1,6 +1,6 @@
 //load the http module to create http server
 var http = require('http');
-
+var squareroot = require("./squareroot.js");
 //configure http server to sow hello world
 
 var server = http.createServer(function(request, response){
