@@ -6,6 +6,7 @@ var squareroot = require("./squareroot.js");
 var server = http.createServer(function(request, response){
   repsonse.writeHEad(200, {"Content-Type": "text/plain"});
   response.end("Hello World\n");
+    response.write("the date squareroot" +squareroot.squareroot());
 });
 
 //listen on local host
