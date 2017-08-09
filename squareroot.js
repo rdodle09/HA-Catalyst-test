@@ -1,4 +1,4 @@
 exports.squareroot =function(){
    let seconds = new Date().getSeconds();
-   return Math.Sqrt(seconds);
+   return Math.sqrt(seconds);
 };
