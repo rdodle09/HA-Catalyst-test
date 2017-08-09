@@ -1,11 +1,4 @@
-var squareroot = {
-
- var squareroot = function(){
- var seconds = new Date.().getSeconds();
- 
- console.log(Math.Sqrt(seconds))
- }
- 
-}
-
-module.exports = squareroot;
+exports.squareroot =function({
+   let seconds = new Date.().getSeconds();
+   return Math.Sqrt(seconds));
+});
