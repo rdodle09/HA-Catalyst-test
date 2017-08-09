@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "HaCatalystTEst",
+  "main": "HelloWorldTest.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdodle09/HA-Catalyst-test.git"
+  },
+  "keywords": [
+    "*"
+  ],
+  "author": "rd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdodle09/HA-Catalyst-test/issues"
+  },
+  "homepage": "https://github.com/rdodle09/HA-Catalyst-test#readme"
+}
